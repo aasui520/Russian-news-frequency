@@ -18,5 +18,5 @@ Python, re, collections, pymorphy3, wordcloud, matplotlib
 
 1. 安装依赖：'py -m pip install pymorphy3 wordcloud matplotlib'
 2. 将俄语新闻文本保存为 'news.txt'（UTF-8 编码）
-3. 运行 'py rnf.py'
+3. 运行 'py wordcounting.py'
 4. 查看终端输出的词频统计结果，并打开生成的'top20.png'和 'russian_wordcloud.png'
